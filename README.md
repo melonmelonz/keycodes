@@ -11,10 +11,6 @@ JavaScript event keyCodes is a lightweight website for getting JavaScript keyboa
 ## Usage:
 "Press any key to get the KeyCode"
 
-## Live Demo:
-The live demo of Event keyCodes can be found at 
-[demo](https://jseventkeycodes.netlify.app)
-
 ## Technical Stack:
 - HTML
 - CSS
